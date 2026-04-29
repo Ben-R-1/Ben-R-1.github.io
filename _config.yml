@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Dr Benjamin Robinson
 email: ben.robinson00@outlook.com
-description: >- 
-Battery Materials Scientist, expertise in graphite/silicon composite anodes and anode recycling methodologies.
+description: >- Battery Materials Scientist, expertise in graphite/silicon composite anodes and anode recycling methodologies.
 github_username: Ben-R-1
 minimal_mistakes_skin: default
 search: true
