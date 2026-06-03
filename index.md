@@ -1,7 +1,9 @@
 ---
-layout: home
+title: My Portfolio Page
+layout: single
 author_profile: true
 ---
+Just starting this webpage out so please excuse the filler information for now!
 
 ## About Me
 
