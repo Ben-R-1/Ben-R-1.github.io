@@ -17,5 +17,5 @@ PhD in Analytical Sciences, focussing on Li-ion battery materials (mainly graphi
 - Materials characterisation
 
 ## Featured Work
-- [Green Graphite Manufacturing Review Paper](/files/Carbon Energy - 2025 - Robinson - Rethinking the Roles of Graphite and Graphene in Lithium‐Ion Batteries From Environmental.pdf)
+- [Green Graphite Manufacturing Review Paper](/files/Rethinking the Roles of Graphite and Graphene in Lithium Ion Batteries From Environmental.pdf)
 - [Making Battery Plotting Easy with Python and R](/_pages/battery-plotting.md)
