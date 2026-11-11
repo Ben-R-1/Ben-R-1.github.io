@@ -1,21 +1,29 @@
 ---
-title: My Portfolio Page
+title: Experimental Cell Engineer | Battery materials and testing
 layout: single
 author_profile: true
 ---
-Just starting this webpage out so please excuse the filler information for now!
 
-## About Me
+I’m an Experimental Cell Engineer at Breathe Battery Technologies, where I’ve worked since August 2026. I bring a background in lithium-ion battery research, with experience spanning anode materials, manufacturing, electrochemical testing and recycling.
 
-Researcher in battery science at the University of Warwick.
+## Research background
 
-PhD in Analytical Sciences, focussing on Li-ion battery materials (mainly graphite).
+Before moving into industry, I completed a PhD in Analytical Sciences at the University of Warwick, focused on lithium-ion battery materials.
 
-## Research Interests
-- Electrochemical modelling
-- Battery degradation
-- Materials characterisation
+## Areas of experience
 
-## Featured Work
-- [Green Graphite Manufacturing Review Paper](/files/green-graphite-review.pdf)
-- [Making Battery Plotting Easy with Python and R](/_pages/battery-plotting.md)
+- **Anode materials:** graphite and graphite–silicon composites
+- **Lower-impact manufacturing:** processing routes for battery-grade graphite and graphene
+- **Electrochemical testing:** evaluating materials in half cells, full cells and pouch cells
+- **Circularity:** recovering value from end-of-life lithium-ion battery materials
+- **Data tools:** Python and R workflows for battery cycling data
+
+## Selected work
+
+- [Publications and research papers](/publications/)
+- [Battery plotting with Python and R](/battery-plotting/)
+- [Research and project overview](/projects/)
+
+## Beyond the lab
+
+Outside work, I enjoy rugby, the gym and learning about history.
