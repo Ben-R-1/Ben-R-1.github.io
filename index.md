@@ -1,5 +1,5 @@
 ---
-title: Experimental Cell Engineer | Battery materials and testing
+title: Experimental Cell Engineer
 layout: single
 author_profile: true
 ---
